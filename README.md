@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Henriquekr23/Henriquekr23/main/assets/ascii-portrait.svg" width="360" alt="Retrato em ASCII" />
-
 </div>
 
 ---
