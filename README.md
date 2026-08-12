@@ -46,8 +46,6 @@
 
 ### 📊 Stats
 
-Nada aqui vem de servidor de terceiros — os três gráficos abaixo são desenhados por um script Python (`scripts/generate_stats.py`) rodando em GitHub Actions, direto da API do GitHub, uma vez por dia. `year.svg` usa a mesma rampa de caracteres do retrato (`:` `+` `#` `@`, do mais quieto ao mais intenso).
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Henriquekr23/Henriquekr23/main/assets/streak.svg" alt="Streak stats" /><br/>
@@ -63,15 +61,5 @@ Nada aqui vem de servidor de terceiros — os três gráficos abaixo são desenh
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Henriquekr23/Henriquekr23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> Gerado automaticamente pelo workflow `snake.yml`. Veja as instruções de instalação abaixo.
-
----
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
