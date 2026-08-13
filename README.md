@@ -49,8 +49,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Henriquekr23/Henriquekr23/main/assets/streak.svg" alt="Streak stats" /><br/>
-<img src="https://raw.githubusercontent.com/Henriquekr23/Henriquekr23/main/assets/langs.svg" alt="Top languages" /><br/>
-<img src="https://raw.githubusercontent.com/Henriquekr23/Henriquekr23/main/assets/year.svg" alt="Ano em caracteres" />
+<img src="https://raw.githubusercontent.com/Henriquekr23/Henriquekr23/main/assets/langs.svg" alt="Top languages" />
 
 </div>
 
