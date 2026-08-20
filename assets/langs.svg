@@ -18,27 +18,27 @@
     <text x="20" y="76" font-family="Consolas, monospace" font-size="12" fill="#eafff2">Java</text>
     <rect x="130" y="65" width="200" height="12" fill="#123420" rx="2"/>
     <rect x="130" y="65" width="0" height="12" fill="#39ff88" rx="2">
-      <animate attributeName="width" from="0" to="42.5" dur="0.8s" begin="0.18s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="41.9" dur="0.8s" begin="0.18s" fill="freeze"/>
     </rect>
     <text x="20" y="106" font-family="Consolas, monospace" font-size="12" fill="#eafff2">CSS</text>
     <rect x="130" y="95" width="200" height="12" fill="#123420" rx="2"/>
     <rect x="130" y="95" width="0" height="12" fill="#39ff88" rx="2">
-      <animate attributeName="width" from="0" to="25.1" dur="0.8s" begin="0.26s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="26.2" dur="0.8s" begin="0.26s" fill="freeze"/>
     </rect>
     <text x="20" y="136" font-family="Consolas, monospace" font-size="12" fill="#eafff2">HTML</text>
     <rect x="130" y="125" width="200" height="12" fill="#123420" rx="2"/>
     <rect x="130" y="125" width="0" height="12" fill="#39ff88" rx="2">
-      <animate attributeName="width" from="0" to="23.6" dur="0.8s" begin="0.34s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="23.3" dur="0.8s" begin="0.34s" fill="freeze"/>
     </rect>
     <text x="20" y="166" font-family="Consolas, monospace" font-size="12" fill="#eafff2">C</text>
     <rect x="130" y="155" width="200" height="12" fill="#123420" rx="2"/>
     <rect x="130" y="155" width="0" height="12" fill="#39ff88" rx="2">
-      <animate attributeName="width" from="0" to="23.0" dur="0.8s" begin="0.42s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="22.7" dur="0.8s" begin="0.42s" fill="freeze"/>
     </rect>
     <text x="20" y="196" font-family="Consolas, monospace" font-size="12" fill="#eafff2">JavaScript</text>
     <rect x="130" y="185" width="200" height="12" fill="#123420" rx="2"/>
     <rect x="130" y="185" width="0" height="12" fill="#39ff88" rx="2">
-      <animate attributeName="width" from="0" to="13.7" dur="0.8s" begin="0.5s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="13.5" dur="0.8s" begin="0.5s" fill="freeze"/>
     </rect>
   <rect x="0.5" y="0.5" width="379" height="239" rx="10" fill="none" stroke="#123420" stroke-width="1"/>
 </svg>
