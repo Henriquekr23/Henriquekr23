@@ -13,7 +13,7 @@
   <line x1="260" y1="40" x2="260" y2="105" stroke="#123420"/>
   
     <text x="60" y="66" text-anchor="middle" font-family="Consolas, monospace" font-size="34" font-weight="700" fill="#eafff2" opacity="0">
-      133
+      137
       <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.15s" fill="freeze"/>
     </text>
     <text x="60" y="90" text-anchor="middle" font-family="Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#39ff88">TOTAL</text>
