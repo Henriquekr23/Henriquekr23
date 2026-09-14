@@ -35,10 +35,10 @@
     <rect x="130" y="155" width="0" height="12" fill="#39ff88" rx="2">
       <animate attributeName="width" from="0" to="18.7" dur="0.8s" begin="0.42s" fill="freeze"/>
     </rect>
-    <text x="20" y="196" font-family="Consolas, monospace" font-size="12" fill="#eafff2">PLpgSQL</text>
+    <text x="20" y="196" font-family="Consolas, monospace" font-size="12" fill="#eafff2">Kotlin</text>
     <rect x="130" y="185" width="200" height="12" fill="#123420" rx="2"/>
     <rect x="130" y="185" width="0" height="12" fill="#39ff88" rx="2">
-      <animate attributeName="width" from="0" to="12.4" dur="0.8s" begin="0.5s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="17.5" dur="0.8s" begin="0.5s" fill="freeze"/>
     </rect>
   <rect x="0.5" y="0.5" width="379" height="239" rx="10" fill="none" stroke="#123420" stroke-width="1"/>
 </svg>
