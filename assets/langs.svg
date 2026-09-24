@@ -18,7 +18,7 @@
     <text x="20" y="76" font-family="Consolas, monospace" font-size="12" fill="#eafff2">C</text>
     <rect x="130" y="65" width="200" height="12" fill="#123420" rx="2"/>
     <rect x="130" y="65" width="0" height="12" fill="#39ff88" rx="2">
-      <animate attributeName="width" from="0" to="35.2" dur="0.8s" begin="0.18s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="37.7" dur="0.8s" begin="0.18s" fill="freeze"/>
     </rect>
     <text x="20" y="106" font-family="Consolas, monospace" font-size="12" fill="#eafff2">Java</text>
     <rect x="130" y="95" width="200" height="12" fill="#123420" rx="2"/>
